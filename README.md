@@ -16,6 +16,7 @@
 
 ```sh
 ./script/pre-install.sh
+sudo apt-get install libssl-dev cmake
 ```
 
 ### Setup Environment Variables (optional)
